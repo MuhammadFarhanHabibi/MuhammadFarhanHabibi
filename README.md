@@ -1,6 +1,18 @@
 # 💫 About Me:
 saya adalah programer,editor pemula yang butuh banyak belajar<br>
 
+<h2 align="left">404:not found</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Hanhinmad/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/habibimfarhan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhan-habibi-24189230b/) 
@@ -27,14 +39,4 @@ saya adalah programer,editor pemula yang butuh banyak belajar<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="left">404:not found</h2>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadFarhanHabibi/MuhammadFarhanHabibi/output/pacman-contribution-graph.svg">
-</picture>
-
-###

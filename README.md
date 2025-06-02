@@ -1,5 +1,5 @@
 # 💫 About Me:
-saya adalah programer,editor pemula yang butuh banyak belajar<br>
+saya adalah pemula yang butuh banyak belajar<br>
 
 <h2 align="left">404:not found</h2>
 
